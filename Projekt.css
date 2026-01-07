@@ -17,7 +17,7 @@ body{
 
   header {
       display: flex;
-      flex-direction: horizontal;
+      flex-direction: row;
       align-items: center;
       justify-content: center;
   }
@@ -130,6 +130,7 @@ footer {
 }
 
        
+
 
 
 
