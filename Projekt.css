@@ -50,6 +50,7 @@ body{
       margin-left: 30%;
       width: 200px;
       height: 100px;
+      cursor: pointer;
   }
 
   a > button.loginBtn:hover { color: orange; }
@@ -126,6 +127,7 @@ footer {
 }
 
        
+
 
 
 
