@@ -39,7 +39,7 @@ body{
 
   }
  
-  button.loginBtn {
+  a > button.loginBtn {
       background-color: lightgrey;
       border-style: double;
       border-inline: red;
@@ -52,7 +52,7 @@ body{
       height: 100px;
   }
 
-  button.loginBtn:hover { color: orange; }
+  a > button.loginBtn:hover { color: orange; }
 
   p{
       color: lightgrey;
@@ -126,6 +126,7 @@ footer {
 }
 
        
+
 
 
 
