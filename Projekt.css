@@ -23,6 +23,7 @@ body{
   h1 {
       color: lightgrey;
       margin-right: 10px; 
+      margin-left: 40%;
       font-size: 40px;
       font-family: cursive;
       text-decoration: underline;
@@ -43,11 +44,12 @@ body{
       background-color: lightgrey;
       border-style: double;
       border-inline: red;
+      color: blue;
       font-size: 20px;
       font-family: cursive;
       border-radius: 60em;
       text-decoration: underline;
-      margin-left: 50%;
+      margin-left: 65%;
       width: 200px;
       height: 100px;
       cursor: pointer;
@@ -127,6 +129,7 @@ footer {
 }
 
        
+
 
 
 
