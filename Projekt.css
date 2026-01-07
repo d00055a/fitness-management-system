@@ -53,6 +53,8 @@ body{
       height: 100px;
   }
 
+  button:hover{ color: orange; }
+
   p{
       color: lightgrey;
       font-family: cursive;
@@ -125,3 +127,4 @@ footer {
 }
 
        
+
